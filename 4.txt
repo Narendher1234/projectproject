@@ -1,2 +1,6 @@
 my name is Narendher currently doing job
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhh
+=======
+hello hello hello hello hello
+>>>>>>> 46d33f7b9a0629502164bffad851d718c265e974
